@@ -52,7 +52,7 @@ The project was deployed using Streamlit to create an interactive user interface
 ## How to Run the Project
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/product-recommendation-system.git
+https://github.com/GayatriWarude/product-recommendation-system.git
 
 ### 2. Open Project Folder
 cd product-recommendation-system
