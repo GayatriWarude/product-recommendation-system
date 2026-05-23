@@ -56,5 +56,13 @@ pip install -r requirements.txt
 
 ### Run Streamlit App
 streamlit run app.py
-  
+
+## Future Improvements
+- Add collaborative filtering
+- Add product images and names
+- Improve recommendation accuracy
+- Deploy on cloud platforms
+
+## Author
+Gayatri Warude
   
