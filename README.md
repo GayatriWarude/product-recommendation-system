@@ -51,10 +51,16 @@ The project was deployed using Streamlit to create an interactive user interface
 
 ## How to Run the Project
 
-### Install Requirements
+### 1. Clone the Repository
+git clone https://github.com/your-username/product-recommendation-system.git
+
+### 2. Open Project Folder
+cd product-recommendation-system
+
+### 3. Install Required Libraries
 pip install -r requirements.txt
 
-### Run Streamlit App
+### 4. Run the Streamlit Application
 streamlit run app.py
 
 ## Future Improvements
